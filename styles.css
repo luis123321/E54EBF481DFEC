@@ -1,0 +1,244 @@
+ul{
+	padding: 0px;
+}
+body 
+{ 
+padding-top: 90px; 
+}
+
+
+#AdSection
+{
+	background-color: #ECF0F1;
+	font-family: 'Lato', sans-serif;
+
+}
+
+.adimaget{
+	margin-top: 27px;
+	font-size: 16px;
+
+}
+
+#btnselect
+{
+	float: right;
+	background-color: #E74C3C;
+	border-radius: 0px;
+	height: 68px;
+	width: 159px;
+	border: 0;
+	display: inline-block;
+}
+
+#btnselect:hover
+{
+	background-color: #EF4836;	
+}
+
+#navContainer
+{
+	
+}
+#navC
+{
+	margin-top: 15px;
+	font-size: 18px;
+}
+#navC > li
+{
+	margin-left: 15px;
+	border-bottom: 3px solid #1BA39C;
+	padding-bottom: 11px;
+}
+
+#navC > li:hover
+{
+	margin-left: 15px;
+	border-bottom: 3px solid #1BBC9B;
+	padding-bottom: 11px;
+	cursor: pointer;
+
+}
+
+section
+{
+	background-color: #e7e7e7;
+	padding:20px 0px;
+	margin-bottom: 15px;
+	cursor: pointer;
+	border-bottom: 3px solid #ECF0F1;
+	border-left: 5px solid #ECF0F1;
+}
+
+section:hover
+{
+	border-bottom: 3px solid #1BA39C;
+	border-left: 5px solid #1BA39C;
+	
+}
+
+#ltcontainer > h2
+{
+	color: red ;
+}
+
+#btnend
+{
+	float: right;
+	margin-top: 20px;
+	margin-bottom: 5px;
+
+}
+
+#btn-movil
+{
+	float: right;
+}
+
+#titles
+{
+	font-family: 'Dosis', sans-serif;
+}
+
+#titles:hover
+{
+	font-family: 'Dosis', sans-serif;
+}
+
+#navContainer>li>a
+{
+padding-bottom: 0px;
+padding-top: 0px;
+}
+
+#mobile-menu-button {
+	float: left;
+	width: 44px;
+	margin: 20px 0;
+}
+
+#mobile-main-menu {
+	display: none;
+	list-style: none;
+	margin-left: 0px;
+}
+#mobile-main-menu ul
+{
+	padding: 0;
+}
+#mobile-main-menu a {
+	display: block;
+	width: 100%;
+	padding: 10px 0;
+	border-top: 1px solid #eee;
+	color: #aaa;
+	text-align: center;
+	text-transform: uppercase;
+	list-style: none;
+}
+
+#mobile-main-menu li {
+	margin: 0;
+	list-style: none;
+}
+
+#mobile-main-menu a:hover {
+	color: #fff;
+	text-decoration: none;
+	background-color: #1BA39C;
+}
+
+#addisplay
+{
+	height: 102px;
+	width: 75%;
+	background-color: white;
+	border: 1px solid black;
+}
+
+#lblselect
+{
+	color: white;
+	text-align: center;
+	margin: 0;
+	margin-top: 15px;
+
+}
+
+#FontPageSection
+{
+	background-color: #9CCEFF;
+}
+
+.fptiles
+{
+	font-size: 16px;
+	color: #000000;
+	padding: 5px 15px;
+	background-color: white;
+	text-align: center;
+}
+
+#fpsection
+{
+	margin-top: 10px;
+}
+
+#editbtn
+{
+	color: white;
+	background-color: #E74C3C;
+	border-radius: 3px;
+	padding: 3px 25px;
+}
+#editbtn:hover
+{
+	background-color: #EF4836;
+}
+
+.fptitle
+{
+	margin-left: 13px;
+	font-size: 16px;
+	font-family: 'Lato', sans-serif;
+	color: white;
+}
+.btncenter
+{
+	text-align: center;
+	margin-top: 5.5px;
+	margin-bottom: 5.5px;
+}
+
+textarea
+{
+	border-radius: 4px;
+	resize:none;
+}
+
+#iptitle
+{
+	font-size: 16px;
+	width: 50%;
+}
+
+#outstanding
+{
+	background-color: #ECF0F1;
+	padding-bottom: 15px;
+}
+
+#outstxt
+{
+	border :1px solid black;
+}
+
+.otn{
+	margin-left: 13px;
+	font-size: 16px;
+	font-family: 'Lato', sans-serif;
+	color: black;
+}
+
+
